@@ -1,1 +1,1 @@
-SELECT * from ufxvt;
+SELECT * from rbnvm;
