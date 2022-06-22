@@ -1,1 +1,1 @@
-console.log("yenel")
+console.log("idvov")
