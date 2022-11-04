@@ -10,4 +10,4 @@ SELECT * from jybjo;
 SELECT * from vlvvf;
 SELECT * from kpvor;
 SELECT * from uagli;
-SELECT * from pwgtc;
+SELECT * from dhwbt;
