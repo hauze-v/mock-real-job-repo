@@ -1,1 +1,1 @@
-console.log("frioc")
+console.log("nyatm")
