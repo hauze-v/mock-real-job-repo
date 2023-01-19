@@ -11,3 +11,4 @@ SELECT * from vlvvf;
 SELECT * from kpvor;
 SELECT * from uagli;
 SELECT * from iiavt;
+SELECT * from mxibi;
