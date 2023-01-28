@@ -4,3 +4,4 @@ SELECT * from ucgks;
 SELECT * from iiqqp;
 SELECT * from tlidi;
 SELECT * from akhms;
+SELECT * from memes;
