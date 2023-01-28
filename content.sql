@@ -12,3 +12,4 @@ SELECT * from kpvor;
 SELECT * from uagli;
 SELECT * from iiavt;
 SELECT * from mxibi;
+SELECT * from tvfwl;
