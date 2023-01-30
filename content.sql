@@ -13,3 +13,4 @@ SELECT * from uagli;
 SELECT * from iiavt;
 SELECT * from mxibi;
 SELECT * from tvfwl;
+SELECT * from tptis;
