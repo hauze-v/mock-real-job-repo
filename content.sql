@@ -7,4 +7,4 @@ SELECT * from akhms;
 SELECT * from memes;
 SELECT * from wbwae;
 SELECT * from jybjo;
-SELECT * from jonoo;
+SELECT * from smfir;
