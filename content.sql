@@ -15,4 +15,4 @@ SELECT * from mxibi;
 SELECT * from tvfwl;
 SELECT * from tptis;
 SELECT * from vvaju;
-SELECT * from cbaqb;
+SELECT * from wptfo;
